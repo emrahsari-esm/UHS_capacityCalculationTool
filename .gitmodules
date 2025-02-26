@@ -1,0 +1,3 @@
+[submodule "MRST"]
+	path = MRST
+	url = https://github.com/SINTEF-AppliedCompSci/MRST
